@@ -18,6 +18,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 
 body{
     background-color: white;
+    background: rgba(0, 128, 0, 0.3)
 }
 
 .form-register{
@@ -129,9 +130,11 @@ body{
     font-size: 16px;
 }
 
-.creditCardForm #pay-now {
-    width: 100%;
+.cards {
+    width: auto;
     margin-top: 25px;
+    margin-bottom: 25px;
+
 }
 
 
